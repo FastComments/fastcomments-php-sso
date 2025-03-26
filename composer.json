@@ -2,7 +2,6 @@
     "name": "fastcomments/sso",
     "description": "FastComments SSO (Single Sign-On) implementation for PHP",
     "type": "library",
-    "version": "0.0.1",
     "license": "MIT",
     "authors": [
         {
